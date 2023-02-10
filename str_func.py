@@ -6,3 +6,5 @@ def str_filter(str):
 """новый комментарий2"""
 def str_title(str):
     return str.title()
+
+"""как мен задолбало это задача"""
